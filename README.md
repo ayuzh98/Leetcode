@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayuzh98/Leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/ayuzh98/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayuzh98/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayuzh98/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ayuzh98/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
