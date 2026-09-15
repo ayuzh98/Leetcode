@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayuzh98/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayuzh98/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ayuzh98/Leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayuzh98/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ayuzh98/Leetcode/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ayuzh98/Leetcode/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ayuzh98/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ayuzh98/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ayuzh98/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ayuzh98/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ayuzh98/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
