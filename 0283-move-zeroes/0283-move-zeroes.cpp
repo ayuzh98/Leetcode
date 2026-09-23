@@ -11,7 +11,7 @@ vector<int> b(nums.size());
             b[starting] = nums[i];
             starting ++;
         }
-        else if (nums[i] = 0) {
+        else if (nums[i] == 0) {
             b[ending] = nums[i];
             ending --;
         }
@@ -22,3 +22,10 @@ vector<int> b(nums.size());
    }  
     }
 };
+
+//         int j = 0;
+
+//         for(int i = 0; i < nums.size(); i++) {
+//             if(nums[i] != 0) 
+//                 swap(nums[i], nums[j]);
+//                 j++;
