@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayuzh98/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayuzh98/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayuzh98/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ayuzh98/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/ayuzh98/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ayuzh98/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ayuzh98/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ayuzh98/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ayuzh98/Leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/ayuzh98/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayuzh98/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayuzh98/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
