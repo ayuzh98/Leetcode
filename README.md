@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ayuzh98/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ayuzh98/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ayuzh98/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ayuzh98/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayuzh98/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ayuzh98/Leetcode/tree/master/1025-divisor-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayuzh98/Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/ayuzh98/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ayuzh98/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ayuzh98/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ayuzh98/Leetcode/tree/master/0344-reverse-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayuzh98/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
