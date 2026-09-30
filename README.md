@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayuzh98/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ayuzh98/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayuzh98/Leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/ayuzh98/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ayuzh98/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayuzh98/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ayuzh98/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ayuzh98/Leetcode/tree/master/1025-divisor-game) |
 ## Minimax
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayuzh98/Leetcode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayuzh98/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayuzh98/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
