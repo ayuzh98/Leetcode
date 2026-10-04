@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ayuzh98/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ayuzh98/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ayuzh98/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ayuzh98/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/ayuzh98/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ayuzh98/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/ayuzh98/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayuzh98/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayuzh98/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ayuzh98/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ayuzh98/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
