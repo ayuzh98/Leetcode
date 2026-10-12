@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/ayuzh98/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayuzh98/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3033-modify-the-matrix](https://github.com/ayuzh98/Leetcode/tree/master/3033-modify-the-matrix) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayuzh98/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayuzh98/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ayuzh98/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ayuzh98/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayuzh98/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayuzh98/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayuzh98/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
