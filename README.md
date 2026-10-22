@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayuzh98/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/ayuzh98/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayuzh98/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayuzh98/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3033-modify-the-matrix](https://github.com/ayuzh98/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ayuzh98/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayuzh98/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/ayuzh98/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayuzh98/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Euclidean Algorithm
 |  |
 | ------- |
