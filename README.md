@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ayuzh98/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ayuzh98/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/ayuzh98/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/ayuzh98/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ayuzh98/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/ayuzh98/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayuzh98/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayuzh98/Leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayuzh98/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/ayuzh98/Leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/ayuzh98/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ayuzh98/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ayuzh98/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/ayuzh98/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
