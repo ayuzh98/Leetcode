@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayuzh98/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayuzh98/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ayuzh98/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ayuzh98/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ayuzh98/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayuzh98/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayuzh98/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ayuzh98/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayuzh98/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ayuzh98/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ayuzh98/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ayuzh98/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayuzh98/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ayuzh98/Leetcode/tree/master/0231-power-of-two) |
