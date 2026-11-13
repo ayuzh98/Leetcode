@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ayuzh98/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayuzh98/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayuzh98/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/ayuzh98/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ayuzh98/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ayuzh98/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayuzh98/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ayuzh98/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ayuzh98/Leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/ayuzh98/Leetcode/tree/master/0709-to-lower-case) |
+| [1408-string-matching-in-an-array](https://github.com/ayuzh98/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/ayuzh98/Leetcode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayuzh98/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayuzh98/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayuzh98/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/ayuzh98/Leetcode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
