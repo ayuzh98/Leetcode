@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/ayuzh98/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayuzh98/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayuzh98/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayuzh98/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayuzh98/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/ayuzh98/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayuzh98/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ayuzh98/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/ayuzh98/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayuzh98/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayuzh98/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayuzh98/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Prefix Sum
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/ayuzh98/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ayuzh98/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayuzh98/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayuzh98/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Matrix
 |  |
 | ------- |
