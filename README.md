@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayuzh98/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayuzh98/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayuzh98/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ayuzh98/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/ayuzh98/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayuzh98/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayuzh98/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayuzh98/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ayuzh98/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayuzh98/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ayuzh98/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ayuzh98/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ayuzh98/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayuzh98/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ayuzh98/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayuzh98/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuzh98/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayuzh98/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ayuzh98/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayuzh98/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Prefix Sum
 |  |
